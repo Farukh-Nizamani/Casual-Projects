@@ -1,4 +1,4 @@
-This repo is all about my 'casual' projects
+This repo is all for my 'casual' projects
 
 
 <!---
