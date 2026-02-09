@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Farukh Nizamani
-- 👀 I’m interested in Data Analysis
-- 🌱 I have been learning Power BI and SQL for a while now
+This repo is all about my 'casual' projects
 
 
 <!---
